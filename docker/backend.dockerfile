@@ -23,7 +23,6 @@ RUN dnf -y update \
     xz-devel \
     git \
     libxml2-devel \
-    libcairo2-dev \
     readline-devel \
     lapack-devel \
     blas-devel \
